@@ -1,14 +1,15 @@
 # Site settings
-title: Zack's Park
-description: A blog about Zack
+title: Yuqi's Park
+description: A blog about Yuqi
 baseurl: "/zack_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Yuqi Zheng (Zack)
+username: Yuqi Zheng
 user_description: A second-year MLIS student at University of Washington.
 user_title: Backend Developer Intern
 email: yuqi95@uw.edu
+twitter_username: Zack18312290
 github_username:  deepforce
 gplus_username:  yuqi95@uw.edu
 
