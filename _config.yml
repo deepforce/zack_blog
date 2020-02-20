@@ -7,14 +7,14 @@ url: "" # the base hostname & protocol for your site e.g. http://willianjusten.c
 # User settings
 username: Yuqi Zheng
 user_description: A second-year MLIS student at University of Washington.
-user_title: Backend Developer Intern
+user_title: Backend Developer
 email: yuqi95@uw.edu
 twitter_username: Zack18312290
 github_username:  deepforce
 gplus_username:  yuqi95@uw.edu
 
 # Google-analytics
-# google-analytics:
-#   id: ""
+google-analytics:
+  id: "G-EQFQ484NBK"
 
 exclude: ['package.json', 'src' , 'node_modules']
