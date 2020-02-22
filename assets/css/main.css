@@ -3784,15 +3784,16 @@ sup {
   transform: translate(-50%, -50%);
 }
 .header .site-title {
-  font-size: 50px;
-  display: block;
-  line-height: 1;
+  display: inline-block;
+  width: 100%;
+  line-height: 1.2em;
+  word-spacing: 2px;
+  letter-spacing: .5px;
   color: #fff;
 }
 @media only screen and (min-width: 550px) {
   .header .site-title {
-    margin: 0;
-    font-size: 100px;
+    font-size: 200%;
   }
 }
 .header .site-description {
