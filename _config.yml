@@ -6,8 +6,7 @@ url: "" # the base hostname & protocol for your site e.g. http://willianjusten.c
 
 # User settings
 username: Yuqi Zheng
-user_description: I'm a second-year MLIS student at the University of Washington. I have a serious passion for back-end system development and database management.
-I also, enjoy writing frontend code in JavaScript and HTML. Right now, I have been learning Java and React.js.
+user_description: I'm a second-year MLIS student at the University of Washington. I have a serious passion for back-end system development and database management. I also, enjoy writing frontend code in JavaScript and HTML. Right now, I have been learning Java and React.js.
 user_title: I'm a Backend Software Developer.
 email: yuqi95@uw.edu
 github_username:  deepforce
