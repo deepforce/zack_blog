@@ -12,35 +12,40 @@
     height:100vh !important;
   }
 }
+.highlight {
+  color: #12a1e4;
+}
 
 .header {
-  z-index: 1;
+  z-index: 9999;
   text-align: center;
-  color:#FFF;
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 50%;
-  margin: 0 auto;
+  width: 90%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
-    font-size: 50px;
-    display: block;
-    line-height: 1;
+    display: inline-block;
+    width: 100%;
     color: #FFF;
-    @media only screen and (min-width:$cut){
-      margin: 0;
-      font-size: 100px;
+    font-size: 130%;
+    line-height: 1.2em;
+    word-spacing: 2px;
+    letter-spacing: 0.5px;
+    @media only screen and (min-width:$tablet-width) {
+      font-size: 200%;
     }
   }
   .site-description {
-    font-size: 20px;
+    font-size: 100%;
+    font-weight: 300;
     display: block;
     line-height: 1;
     color: #FFF;
-    margin-top: 10px;
-    @media only screen and (min-width:$cut){
-      font-size: 40px;
+    margin: 20px 0;
+    @media only screen and (min-width:$tablet-width){
+      font-size: 150%;
     }
   }
 }
