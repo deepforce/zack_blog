@@ -1,7 +1,8 @@
 # Site settings
 title: Yuqi's Park
 description: A blog about Yuqi
-baseurl: "/zack_blog" # the subpath of your site, e.g. /blog
+baseurl: "/zack_blog" # the subpath of your site, e.g. /blog (production)
+# baseurl: "http://localhost:3000/" # (development)
 url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
